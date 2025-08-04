@@ -2,6 +2,7 @@
 Aplikasi sederhana berbasis PHP untuk mencatat tugas harian dengan fitur penambahan, centang selesai, dan penghapusan tugas. Menggunakan Bootstrap untuk antarmuka.
 
 # Fitur
+Edit nama
 Tambah tugas
 Tandai tugas selesai
 Hapus tugas
